@@ -1,0 +1,19 @@
+ 
+  
+Duration: 1 day 
+ 
+Test Brief 
+We have shared an image with you; try to design this with the help of Flutter. 
+ 
+Key Requirements: 
+• Responsiveness: The project must be fully responsive and optimized 
+for all screen sizes, including mobile, tablet, and web. 
+• Deployment: After building the project, host it on Vercel or Firebase 
+and share the live deployment link. 
+ 
+Note: Try to create the dashboard for the office use. 
+ 
+ 
+Submission 
+Please share your live project link and source code at: hr@adstacks.in 
+ 
